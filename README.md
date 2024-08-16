@@ -3,7 +3,7 @@
 
 **KernelX: The Ultimate Kernel Kitchen** - Your All-in-One Tool for Custom Kernel Management! 🛠️ Easily manage, patch, and deploy custom Android kernels with KernelX. Designed for developers and enthusiasts, KernelX offers a user-friendly, prompt-based interface with powerful customization options.
 
-## What's New (v1.0.0)
+## What's New (v1.0.1)
 
 - **Interactive Configuration**: Now featuring prompt-based configuration setup for ease of use.
 - **Enhanced Ramdisk Management**: Improved handling and customization of ramdisk files.
