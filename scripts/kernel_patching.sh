@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-
 patch_kernel() {
     log "Patching kernel..."
     
