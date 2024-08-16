@@ -1,5 +1,5 @@
 <h1 align="center">KernelX</h1>
-<h3 align="center">v1.0.0</h3>
+<h3 align="center">v1.0.1</h3>
 
 **KernelX: The Ultimate Kernel Kitchen** - Your All-in-One Tool for Custom Kernel Management! 🛠️ Easily manage, patch, and deploy custom Android kernels with KernelX. Designed for developers and enthusiasts, KernelX offers a user-friendly, prompt-based interface with powerful customization options.
 
