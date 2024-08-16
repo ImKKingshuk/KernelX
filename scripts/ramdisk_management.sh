@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# KernelX
+# Author: @ImKKingshuk
 
 manage_ramdisk() {
     log "Managing ramdisk..."
