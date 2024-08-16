@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# KernelX
+# Author: @ImKKingshuk
 
 detect_device() {
     log "Detecting device..."
