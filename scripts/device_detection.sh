@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-
 detect_device() {
     log "Detecting device..."
     DEVICE=$(getprop ro.product.device)
