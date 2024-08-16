@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-
 manage_ramdisk() {
     log "Managing ramdisk..."
     
