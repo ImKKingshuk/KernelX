@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# KernelX
+# Author: @ImKKingshuk
 
 patch_kernel() {
     log "Patching kernel..."
